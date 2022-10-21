@@ -1,0 +1,11 @@
+C:\Users\marce\source\repos\EmpresaEvolution\EmpresaEvolution\bin\Debug\EmpresaEvolution.exe.config
+C:\Users\marce\source\repos\EmpresaEvolution\EmpresaEvolution\bin\Debug\EmpresaEvolution.exe
+C:\Users\marce\source\repos\EmpresaEvolution\EmpresaEvolution\bin\Debug\EmpresaEvolution.pdb
+C:\Users\marce\source\repos\EmpresaEvolution\EmpresaEvolution\obj\Debug\EmpresaEvolution.csproj.AssemblyReference.cache
+C:\Users\marce\source\repos\EmpresaEvolution\EmpresaEvolution\obj\Debug\EmpresaEvolution.csproj.SuggestedBindingRedirects.cache
+C:\Users\marce\source\repos\EmpresaEvolution\EmpresaEvolution\obj\Debug\EmpresaEvolution.Form1.resources
+C:\Users\marce\source\repos\EmpresaEvolution\EmpresaEvolution\obj\Debug\EmpresaEvolution.Properties.Resources.resources
+C:\Users\marce\source\repos\EmpresaEvolution\EmpresaEvolution\obj\Debug\EmpresaEvolution.csproj.GenerateResource.cache
+C:\Users\marce\source\repos\EmpresaEvolution\EmpresaEvolution\obj\Debug\EmpresaEvolution.csproj.CoreCompileInputs.cache
+C:\Users\marce\source\repos\EmpresaEvolution\EmpresaEvolution\obj\Debug\EmpresaEvolution.exe
+C:\Users\marce\source\repos\EmpresaEvolution\EmpresaEvolution\obj\Debug\EmpresaEvolution.pdb

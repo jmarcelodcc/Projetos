@@ -1,0 +1,11 @@
+C:\Users\marce\source\repos\Automovel\Automovel\bin\Debug\Automovel.exe.config
+C:\Users\marce\source\repos\Automovel\Automovel\bin\Debug\Automovel.exe
+C:\Users\marce\source\repos\Automovel\Automovel\bin\Debug\Automovel.pdb
+C:\Users\marce\source\repos\Automovel\Automovel\obj\Debug\Automovel.csproj.AssemblyReference.cache
+C:\Users\marce\source\repos\Automovel\Automovel\obj\Debug\Automovel.csproj.SuggestedBindingRedirects.cache
+C:\Users\marce\source\repos\Automovel\Automovel\obj\Debug\Automovel.Form1.resources
+C:\Users\marce\source\repos\Automovel\Automovel\obj\Debug\Automovel.Properties.Resources.resources
+C:\Users\marce\source\repos\Automovel\Automovel\obj\Debug\Automovel.csproj.GenerateResource.cache
+C:\Users\marce\source\repos\Automovel\Automovel\obj\Debug\Automovel.csproj.CoreCompileInputs.cache
+C:\Users\marce\source\repos\Automovel\Automovel\obj\Debug\Automovel.exe
+C:\Users\marce\source\repos\Automovel\Automovel\obj\Debug\Automovel.pdb
